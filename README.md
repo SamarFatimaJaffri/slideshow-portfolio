@@ -1,6 +1,8 @@
 # Samar Fatima Jaffri - Slideshow Portfolio
 This website include my precise portfolio. Through this portfolio one can get my Bio and Contact info.
 
+Site can be viewed at https://samarfatimajaffri.github.io/slideshow-portfolio/
+
 <details>
 <summary> Reveal.js Info </summary>
 
